@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @swathi-a03
-- 👀 I’m interested in contrsystem,process control,little more in c. 
+- 👀 I’m interested in controlsystem,process control,little more in c. 
 - 🌱 I’m currently learning B.E,instrumentation and control engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫  reach me mail
